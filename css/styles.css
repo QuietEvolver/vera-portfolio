@@ -31,6 +31,10 @@ p {
   background-color: rgb(177, 252, 227);
 }
 
+.card-group {
+   display: flex;
+}
+
 .card-header {
   border: 1.5px inset rgb(249, 246, 62);
 }
