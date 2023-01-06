@@ -1,8 +1,8 @@
-# Currency Exchanger
+# Portfolio
 
 #### By Vera Weikel
 
-#### A Currency Exchanger app
+#### A Personal Portfolio
 
 ## Technologies Used
 
