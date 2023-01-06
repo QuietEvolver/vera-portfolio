@@ -33,11 +33,20 @@ p {
 
 .card-group {
    display: flex;
+/* }
+.column { */
+  width: 300px;
+ float: left;
+ /* flex-direction:column; */
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
 }
 
 .card-header {
   border: 1.5px inset rgb(249, 246, 62);
 }
+
 
 .blockquote {
   background-color: rgb(251, 249, 247);
