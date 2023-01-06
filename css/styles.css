@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(243, 243, 214);
+  list-style: inherit;
+  text-align: center;
+} 
+
+.jumbotron {
+  background-color: rgb(244, 233, 205);
+  text-decoration: rgb(5, 72, 72) double underline;
+  border: 5px outset rgb(189, 160, 189);
+}
