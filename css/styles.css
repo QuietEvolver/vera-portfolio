@@ -7,11 +7,11 @@ body {
 .jumbotron {
   background-color: rgb(244, 233, 205);
   text-decoration: rgb(5, 72, 72) double underline;
-  border: 5px inset purple;
+  border: 5px outset rgb(167, 119, 167);
 }
 
 #carouselIndicators {
-  border: solid slateblue 1em;
+  border: .5em inset rgb(141, 131, 207) ;
 }
 
 .container {
