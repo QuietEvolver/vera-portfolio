@@ -8,35 +8,20 @@
 
 * HTML 
 * CSS 
-* Javascript
-* Webpack
-* Babel
-* esLint
-* npm
 
 ## Description
-A currency exchange application which allows user to type in an amount (in U.S. dollars) and then choose which currency to converted to (such as francs, marks, rupees, and so on). 
+Personal Portfolio Page. 
  
 ## Goals
-* A user should be able to enter an amount (in U.S. dollars), then specify another currency (such as the South Korean won), and submit a form. The user should then see the total amount they entered in converted currency. For example, a user might enter 10 dollars and then see that amount in South Korean won.
-* Users should be able to convert U.S. currency into at least 5 other types of currency.
-* If the API call results in an error (any message not a 200 OK), the application should return a notification to the user that states what the error is. (That means the error should show up in the DOM, not in the console.)
-* If the query response doesn't include that particular currency, the application should return a notification that states the currency in question doesn't exist. (Note: Even if you use a dropdown menu to specify currencies instead of a form field, you'll still need to add this functionality to your code.)
+* Highlight personal projects
 
 ## Setup/Installation Requirements
 
-* REGISTER FOR A DEVELOPER ACCOUNT [HERE](https://www.exchangerate-api.com/)
-* Input your email address and click the "Get Free Key" button.
-* Create an account with your email, first name and a password
-* Agree to the terms of use and click "Get Started"
-* FURTHER [DOCS](https://www.exchangerate-api.com/docs/overview)
-* Clone this [repo](https://github.com/QuietEvolver/currency-exchanger-ee.git) to your workspace.
-* Navigate to the top level of the directory.
-* At the root of the file folder make an .env file to hide API_KEY
-* Add .env to the .gitignore file
-* Open up a terminal console and type in $ npm install
-* In your terminal run $npm run build 
-* In your terminal run $npm run start and the website will open in your default browser: localhost:8080/ 
+* _Open a terminal console on your personal computer_
+* _Navigate to your Desktop_
+* _Type $ git clone the [repo](https://github.com/QuietEvolver/Friday-prj-de.git)_
+* _Navigate into the repo once cloned_
+* _Once in the repository folder, open index.html in browser of choice._
 
 ## Known Bugs
 
