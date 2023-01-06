@@ -14,6 +14,15 @@ body {
   border: .5em inset rgb(210, 209, 223) ;
 }
 
+.carousel-item {
+  width: auto;
+  height: auto;
+}
+
+.sr-only {
+  color: rgb(95, 103, 103)
+}
+
 .container {
   display: flex;
   justify-content: center;
@@ -38,9 +47,16 @@ body {
   border: 1.5px inset rgb(249, 246, 62);
 }
 
+.card-subtitle {
+  padding: 6%;
+  font-style: italic;
+}
+
 p {
   background-color: rgb(250, 250, 229);
   color: grey !important;
+  animation-duration: 3s;
+  animation-name: slidein;
 }
 
 .active {
@@ -55,4 +71,44 @@ p {
 table {
   background-color: rgb(254, 245, 245);
   border: 2px solid rgb(218, 243, 218);
+}
+
+img {
+  height: 15em;
+  margin-bottom: auto;
+  max-height: 17.5%;
+  max-width: auto;
+  padding: 2%;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  text-align: left;
+}
+
+/* css animation */
+/* p {
+  animation-duration: 3s;
+  animation-name: slidein;
+} */
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  75% {
+    font-size: 300%;
+    margin-left: 25%;
+    width: 150%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
 }
