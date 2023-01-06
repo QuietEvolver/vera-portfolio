@@ -47,7 +47,6 @@ p {
   border: 1.5px inset rgb(249, 246, 62);
 }
 
-
 .blockquote {
   background-color: rgb(251, 249, 247);
   text-decoration: rgb(95, 103, 103) double underline;
@@ -77,6 +76,7 @@ img {
 
 .card-subtitle {
   padding: 6%;
+  font-style: italic;
 }
 
 #word {
