@@ -36,10 +36,10 @@ p {
 /* }
 .column { */
   width: 300px;
- float: left;
+  float: left;
  /* flex-direction:column; */
   margin: 12px;
-  border: 2px solid green;
+  border: 2px #ccc solid;
   padding: 4px;
 }
 
