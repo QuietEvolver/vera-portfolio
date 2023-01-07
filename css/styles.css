@@ -47,7 +47,7 @@ body {
 
 .card-subtitle {
   padding: 6%;
-  font-style: italic, bold;
+  font-style: italic;
   color:rgb(26, 98, 98);
 } 
 
@@ -80,8 +80,13 @@ img {
   padding: 2%;
 }
 
-ul {
+/* .skills-list {
   list-style: none;
+} */
+
+ul {
+  /* list-style: none; */
+  text-align: start;
 }
 
 ol {
