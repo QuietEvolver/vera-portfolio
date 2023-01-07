@@ -2,7 +2,7 @@ body {
   background-color: rgb(243, 243, 214);
   list-style: inherit;
   text-align: center;
-} 
+}
 
 .jumbotron {
   background-color: rgb(244, 233, 205);
@@ -11,7 +11,7 @@ body {
 }
 
 #carouselIndicators {
-  border: .5em inset rgb(210, 209, 223) ;
+  border: .5em inset rgb(210, 209, 223);
 }
 
 .carousel-item {
@@ -33,14 +33,12 @@ body {
 
 .card-group {
   display: flex;
-/* }
-.column { */
- width: 300px;
- float: left;
-/* flex-direction:column; */
- margin: 12px;
- border: 2px #ccc solid;
- padding: 4px;
+  width: 300px;
+  float: left;
+  /* flex-direction:column; */
+  margin: 12px;
+  border: 2px #ccc solid;
+  padding: 4px;
 }
 
 .card-header {
@@ -89,7 +87,12 @@ ol {
   text-align: left;
 }
 
+#word {
+  color: purple;
+}
+
 /* css animation */
+
 /* p {
   animation-duration: 3s;
   animation-name: slidein;
