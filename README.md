@@ -31,7 +31,7 @@ Personal Portfolio Page.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2022 Vera Weikel
+Copyright (c) 2023 Vera Weikel
 
 MIT License
 
