@@ -47,10 +47,11 @@ body {
 
 .card-subtitle {
   padding: 6%;
-  font-style: italic;
-}
+  font-style: italic, bold;
+  color:rgb(26, 98, 98);
+} 
 
-p {
+.card-title {
   background-color: rgb(250, 250, 229);
   color: grey !important;
   animation-duration: 3s;
