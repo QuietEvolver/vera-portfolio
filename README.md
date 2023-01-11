@@ -19,7 +19,7 @@ Personal Portfolio Page.
 
 * _Open a terminal console on your personal computer_
 * _Navigate to your Desktop_
-* _Type $ git clone the [repo](https://github.com/QuietEvolver/vera-portfolio.git (* to see [deployed](https://quietevolver.github.io/vera-portfolio/) site)_
+* _Type $ git clone the [repo](https://github.com/QuietEvolver/vera-portfolio.git) (* to see [deployed](https://quietevolver.github.io/vera-portfolio/) site)_
 * _Navigate into the repo once cloned_
 * _Once in the repository folder, open index.html in browser of choice._
 
